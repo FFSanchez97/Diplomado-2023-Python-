@@ -7,3 +7,8 @@ Name of the students
 3. Alexander Quispe
 4. Luis Quispe
 5. Nuria Toledo
+
+List of artist
+1. Selena Gomez
+2. Corazon Serrano
+3. Grupo 5
