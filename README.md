@@ -23,4 +23,6 @@ List of districts
 1. SMP
 2. SJL
 3. Tumbes
-
+4. San Miguel
+5. San Roman
+6. Mgisterio city
