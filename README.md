@@ -18,4 +18,8 @@ List of school
 2. Primer Colegio Nacional de la Republica de Nuestra Señora de Guadalupe
 3. Roosevelt
 4. Juan Luis Gonzaga
-5. 
+
+List of districts
+1. San Miguel
+2. San Roman
+3. Mgisterio city
