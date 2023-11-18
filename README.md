@@ -18,4 +18,9 @@ List of school
 2. Primer Colegio Nacional de la Republica de Nuestra Señora de Guadalupe
 3. Roosevelt
 4. Juan Luis Gonzaga
-5. 
+
+List of districts
+1. SMP
+2. SJL
+3. Tumbes
+
