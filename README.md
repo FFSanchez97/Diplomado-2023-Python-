@@ -12,3 +12,10 @@ List of artist
 1. Selena Gomez
 2. Corazon Serrano
 3. Grupo 5
+
+List of school
+1. 2074 Santa Marta
+2. Primer Colegio Nacional de la Republica de Nuestra Señora de Guadalupe
+3. Roosevelt
+4. Juan Luis Gonzaga
+5. 
