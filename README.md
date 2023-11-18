@@ -26,3 +26,8 @@ List of districts
 4. San Miguel
 5. San Roman
 6. Mgisterio city
+
+List of equipos
+1. Cienciano
+2. Alianza Lima
+3. Univeristario
