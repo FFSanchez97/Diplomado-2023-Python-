@@ -20,6 +20,9 @@ List of school
 4. Juan Luis Gonzaga
 
 List of districts
-1. San Miguel
-2. San Roman
-3. Mgisterio city
+1. SMP
+2. SJL
+3. Tumbes
+4. San Miguel
+5. San Roman
+6. Mgisterio city
