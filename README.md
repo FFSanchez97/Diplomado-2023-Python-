@@ -32,7 +32,11 @@ List of equipos
 2. Alianza Lima
 3. Univeristario
 
-List of favorities cities
-1. Medellin
-2. Lima
-3. Alejandria
+
+Ciudades Favoritas
+1. Sao Paulo
+2. Cali
+3. Medellin
+4. Lima
+5. Alejandria
+
