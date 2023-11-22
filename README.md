@@ -2,11 +2,18 @@
 This is a basic course in Python.
 
 Name of the students
-1. Fernando Sánchez
-2. Mathias Salazar
-3. Alexander Quispe
-4. Luis Quispe
-5. Nuria Toledo
+1. Fernando Sánchez 
+2. Mathias Salazar 
+3. Alexander Quispe 
+4. Luis Quispe 
+5. Nuria Toledo 
+
+Usernames
+1. FS54
+2. MS43
+3. AQ70
+4. LQ23
+5. NT65
 
 List of artist
 1. Selena Gomez
