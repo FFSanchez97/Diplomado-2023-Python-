@@ -31,3 +31,8 @@ List of equipos
 1. Cienciano
 2. Alianza Lima
 3. Univeristario
+
+Ciudades Favoritas
+1. Sao Paulo
+2. Cali
+3. Cartagena
